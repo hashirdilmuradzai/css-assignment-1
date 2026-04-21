@@ -1,0 +1,19 @@
+#main-title {
+  color: darkblue;
+  background-color: lightblue;
+}
+
+.intro-paragraph {
+  color: purple !important;
+  background-color: transparent !important;
+}
+
+#color-box {
+  color: red;
+  background-color: yellow;
+}
+
+p {
+  color: darkgreen;
+  background-color: lightgreen;
+}
